@@ -21,7 +21,7 @@
     },
     "BOT_USERNAME": {
       "description": "Botun ünvanını daxil edin.",
-      "value": "bəbə"
+      "value": "LedyTagRobot"
     },
     "BOT_ID": {
       "description": "Botun id-sini daxil edin.",
