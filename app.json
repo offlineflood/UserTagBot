@@ -9,39 +9,39 @@
     },
     "API_ID": {
       "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
-      "value": "bəbə"
+      "value": "18052289"
     },
     "API_HASH": {
       "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
-      "value": "bəbə"
+      "value": "552525f45a3066fee54ca7852235c19c"
     },
     "BOT_NAME": {
       "description": "User Tag Botunuz üçün ad. Zəhmət olmasa ascii simvollarından istifadə etməyin.",
-      "value": "bəbə"
+      "value": "LEDY TAGGER"
     },
     "BOT_USERNAME": {
       "description": "Botun ünvanını daxil edin.",
-      "value": "bəbə"
+      "value": "LedyTagRobot"
     },
     "BOT_ID": {
       "description": "Botun id-sini daxil edin.",
-      "value": "bəbə"
+      "value": "5101633120"
     },
     "SUDO_USERS": {
       "description": "Botun sahibini daxil edin.",
-      "value": "bəbə"
+      "value": "1924693109"
     },
     "SUPPORT_CHAT": {
       "description": "Botun dəstək qrupuna daxil olun.",
-      "value": "bəbə"
+      "value": "SOQrup"
     },
     "OWNER_ID": {
       "description": "SAHİBİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Çoklu değerler bir boşluk ile ayrılmalıdır.",
-      "value": "bəbə"
+      "value": "1924693109"
     },
     "OWNER_USERNAME": {
       "description": "Botun sahibinin ünvanını daxil edin.",
-      "value": "bəbə"
+      "value": "Tenha055"
     }
   },
   "buildpacks": [{
