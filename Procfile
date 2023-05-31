@@ -1,2 +1,2 @@
-Dejavu Tag: bash tag.py
-Dejavu Bot: bash bot.py
+Dejavu: bash tag.py
+Dejavu: bash bot.py
