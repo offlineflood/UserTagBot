@@ -13,6 +13,6 @@ class Config():
     BOT_ID = int(os.environ.get("BOT_ID"))
     Dejavu = os.environ.get("Dejavu","1280040987").split()
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
-    OWNER_ID = int(os.environ.get("OWNER_ID", "1280040987")
+    OWNER_ID = int(os.environ.get("OWNER_ID")
     SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP")
     SUPPORT_CHANNEL = os.environ.get("SUPPORT_CHANNEL")
