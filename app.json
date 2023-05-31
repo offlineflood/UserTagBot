@@ -1,47 +1,51 @@
 {
-  "name": "User Tag Bot",
-  "logo":"https://te.legra.ph/file/46d967d7f0ea366f7f6f3.jpg",
+  "name": "Dejavu Tag Bot",
+  "logo":"https://te.legra.ph/file/9e5822e1e12f953f9a69c.jpg",
   "description": "İstifadəçi tagger botu pulsuz üzvlərinizi etiketləyən bir botdur.",
   "env": {
     "BOT_TOKEN": {
-      "description": "Botfather-dən Bot nişanı.",
-      "value": "bəbə"
+      "description": "@Botfather-dən Bot nişanı.",
+      "value": ""
     },
     "API_ID": {
       "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
-      "value": "bəbə"
+      "value": ""
     },
     "API_HASH": {
       "description": "Bu dəyəri https://my.telegram.org saytından əldə edin.",
-      "value": "bəbə"
+      "value": ""
     },
     "BOT_NAME": {
       "description": "User Tag Botunuz üçün ad. Zəhmət olmasa ascii simvollarından istifadə etməyin.",
-      "value": "bəbə"
+      "value": ""
     },
     "BOT_USERNAME": {
       "description": "Botun ünvanını daxil edin.",
-      "value": "bəbə"
+      "value": ""
     },
     "BOT_ID": {
       "description": "Botun id-sini daxil edin.",
-      "value": "bəbə"
+      "value": ""
     },
-    "SUDO_USERS": {
-      "description": "Botun sahibini daxil edin.",
-      "value": "bəbə"
+    "Dejavu": {
+      "description": "Botun sahibini id-sini daxil edin.",
+      "value": ""
     },
-    "SUPPORT_CHAT": {
+    "SUPPORT_GROUP": {
       "description": "Botun dəstək qrupuna daxil olun.",
-      "value": "bəbə"
+      "value": ""
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "Botun dəstək kanalini daxil olun.",
+      "value": ""
     },
     "OWNER_ID": {
       "description": "SAHİBİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Çoklu değerler bir boşluk ile ayrılmalıdır.",
-      "value": "bəbə"
+      "value": ""
     },
     "OWNER_USERNAME": {
       "description": "Botun sahibinin ünvanını daxil edin.",
-      "value": "bəbə"
+      "value": ""
     }
   },
   "buildpacks": [{
